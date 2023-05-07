@@ -11,10 +11,11 @@
 
 - 📫 How to reach me **m.hafizimran77@gmail.com**
 
-- ⚡ Fun fact **I am I am passionate Data visualizer and analysist**
+- ⚡ Fun fact **I am a passionate Data visualizer and analysist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/hafiz muhammad imran cpa.afa-mipa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafiz muhammad imran cpa.afa-mipa" height="30" width="40" /></a>
 <a href="https://kaggle.com/hafiz imran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hafiz imran" height="30" width="40" /></a>
 </p>
 
